@@ -55,6 +55,8 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 <img width="471" height="244" alt="Screenshot 2025-08-08 104608" src="https://github.com/user-attachments/assets/69239a54-6686-4f6c-8eb0-30f9d66e41d1" />
 
+
+
 <img width="464" height="380" alt="Screenshot 2025-08-08 105920" src="https://github.com/user-attachments/assets/bb1ff7ff-733a-475c-ab89-b68a82b1a243" />
 
 
@@ -79,6 +81,8 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 <img width="546" height="250" alt="Screenshot 2025-08-08 105100" src="https://github.com/user-attachments/assets/86caaed0-54a6-41eb-a195-4d0f462212e1" />
 
+
+
 <img width="565" height="370" alt="Screenshot 2025-08-08 110142" src="https://github.com/user-attachments/assets/46629266-8665-4acb-af48-da390c11b0a3" />
 
 
@@ -99,6 +103,8 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 <img width="463" height="270" alt="Screenshot 2025-08-08 105129" src="https://github.com/user-attachments/assets/173d32ed-3c3f-42b0-9977-faf1be1b8244" />
 
+
+
 <img width="482" height="390" alt="Screenshot 2025-08-08 110209" src="https://github.com/user-attachments/assets/4279b1f6-bd5e-4a22-afec-dcbb07cf5ee5" />
 
 ### Normalize -> Pre-Processing Technique:
@@ -117,6 +123,8 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 <img width="480" height="259" alt="Screenshot 2025-08-08 105632" src="https://github.com/user-attachments/assets/53701c46-c402-4401-ad6b-afe587f75113" />
+
+
 
 <img width="466" height="393" alt="Screenshot 2025-08-08 110232" src="https://github.com/user-attachments/assets/d4f33d03-b1ed-4a36-8fa6-d910d68ac955" />
 
